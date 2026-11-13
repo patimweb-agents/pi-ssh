@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Smotherer007/pi-ssh.git"
+    "url": "https://github.com/patimweb-agents/pi-ssh.git"
   },
   "bugs": {
-    "url": "https://github.com/Smotherer007/pi-ssh/issues"
+    "url": "https://github.com/patimweb-agents/pi-ssh/issues"
   },
   "scripts": {
     "build": "echo 'No build step defined'",
